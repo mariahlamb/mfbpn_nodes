@@ -14,7 +14,6 @@ trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22
 trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22.55:443?allowInsecure=1&sni=tensely.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-0014-MO
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxNS1OT1dIRVJFIiwiYWRkIjoiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjNhLnJ1aTc3LmNvbSIsInBvcnQiOiI1MjM1NiIsInR5cGUiOiJub25lIiwiaWQiOiI3NWQyMmIyNS01ZGI4LTRkNTAtYjBjMC03NDdhMGIxYzAzNWYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidGVuc2VseS5mcmVldHJhZGUubGluayIsInRscyI6IiJ9
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0016-JP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:811#TG%E9%A2%91%E9%81%93%40mfbpn-0017-CA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YTRiN2VkNy0zZTI0LTQ4ZDUtOTNkMi0yYzU4YTJlODMwNWQ@125.94.215.64:45535#TG%E9%A2%91%E9%81%93%40mfbpn-0018-CN
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxOS1OT1dIRVJFIiwiYWRkIjoiYW9wLnNzZnJlZS5ydSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGZjYjEwYTgtNjYyYy0xMWVkLTk4MmMtMDAwMDE3MDIyMDA4IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2V0d2VhdGhlciIsImhvc3QiOiJhb3Auc3NmcmVlLnJ1IiwidGxzIjoiIn0=
 trojan://f8d19ba5-8684-45f2-8523-77dbea588955@hgc.iamnotagoodman.com:443?allowInsecure=1&sni=hgc.iamnotagoodman.com#TG%E9%A2%91%E9%81%93%40mfbpn-0020-SG
@@ -92,6 +91,7 @@ trojan://telegram-id-privatevpns@18.156.90.144:22222?allowInsecure=1&sni=trojan.
 trojan://telegram-id-privatevpns@51.21.70.13:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0092-SE
 trojan://telegram-id-directvpn@18.130.19.59:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0093-GB
 trojan://telegram-id-privatevpns@15.236.11.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0094-FR
+vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDA5NS1VUyIsImFkZCI6IjE5OC4yLjIxOC4xMDIiLCJwb3J0IjoiNDE0MDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://telegram-id-directvpn@34.226.4.207:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0096-US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0097-LT
 trojan://telegram-id-privatevpns@3.127.101.4:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0098-DE
