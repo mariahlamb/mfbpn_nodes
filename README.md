@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `942`
+高速节点数量: `943`
 <details>
   <summary>展开复制节点</summary>
 
@@ -485,6 +485,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0552-LT
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0553-LT
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#TG%E9%A2%91%E9%81%93%40mfbpn-0554-LV
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.150:443#TG%E9%A2%91%E9%81%93%40mfbpn-0555-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0556-LT
     ssr://dXMtYW0zLmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlptOTFPRTFDUjJscS8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9VkVmcG9wSHBnWk5BYldaaWNHNHRNRFUxTnkxVlV3Jm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU1OC1SRUxBWSIsImFkZCI6IjEwNC4yMS4yMzguMjAwIiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiOTIwMWZmYWEtNmNhMy00ZjU3LThiMWYtMjY2YTJmMzkwZTQzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6IiIsInRscyI6InRscyJ9
@@ -750,7 +751,7 @@ Fork from TopFreeProxies.
     trojan://3648425794742788096@52.48.40.31:443?allowInsecure=1&sni=cool-meerkat.pig299.lat#TG%E9%A2%91%E9%81%93%40mfbpn-0818-IE
     ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#TG%E9%A2%91%E9%81%93%40mfbpn-0819-US
     ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.37.18.75:443#TG%E9%A2%91%E9%81%93%40mfbpn-0820-FR
-    trojan://Julius@104.219.41.229:443?allowInsecure=1&sni=miami.juliusnet.com#TG%E9%A2%91%E9%81%93%40mfbpn-0821-US
+    trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@121.78.213.3:443?allowInsecure=1&sni=miami.juliusnet.com#TG%E9%A2%91%E9%81%93%40mfbpn-0821-US
     ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#TG%E9%A2%91%E9%81%93%40mfbpn-0822-US
     trojan://3648425794742788096@47.130.79.130:443?allowInsecure=1&sni=neat-drake.squid592.motorcycles#TG%E9%A2%91%E9%81%93%40mfbpn-0823-SG
     trojan://bpb-trojan@162.159.198.172:443?allowInsecure=1&sni=adagio.us.kg#TG%E9%A2%91%E9%81%93%40mfbpn-0824-RELAY
@@ -977,11 +978,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1043`
+合并节点总数: `1330`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1043`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1330`
 
 
 ## 仓库声明
