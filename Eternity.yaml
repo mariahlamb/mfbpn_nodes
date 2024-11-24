@@ -508,6 +508,7 @@ proxies:
   - {name: TG频道@mfbpn-0552-LT, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
   - {name: TG频道@mfbpn-0553-LT, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
   - {name: TG频道@mfbpn-0554-LV, server: 193.124.22.253, port: 33068, type: ss, cipher: chacha20-ietf-poly1305, password: 3MgIhqwp4pjM8SKwixNkYZ, udp: true}
+  - {name: TG频道@mfbpn-0555-US, server: 205.134.180.150, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
   - {name: TG频道@mfbpn-0556-LT, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
   - {name: TG频道@mfbpn-0557-US, server: us-am3.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: fou8MBGij, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
   - {name: TG频道@mfbpn-0558-RELAY, server: 104.21.238.200, port: 8443, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
@@ -773,7 +774,7 @@ proxies:
   - {name: TG频道@mfbpn-0818-IE, server: 52.48.40.31, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: cool-meerkat.pig299.lat, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0819-US, server: 69.50.95.53, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-0820-FR, server: 54.37.18.75, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: TG频道@mfbpn-0821-US, server: 104.219.41.229, port: 443, type: trojan, password: Julius, sni: miami.juliusnet.com, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0821-US, server: 121.78.213.3, port: 443, type: trojan, password: ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S, sni: miami.juliusnet.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0822-US, server: 38.110.1.105, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-0823-SG, server: 47.130.79.130, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: neat-drake.squid592.motorcycles, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0824-RELAY, server: 162.159.198.172, port: 443, type: trojan, password: bpb-trojan, sni: adagio.us.kg, skip-cert-verify: true, udp: true}
@@ -1459,6 +1460,7 @@ proxy-groups:
       - TG频道@mfbpn-0552-LT
       - TG频道@mfbpn-0553-LT
       - TG频道@mfbpn-0554-LV
+      - TG频道@mfbpn-0555-US
       - TG频道@mfbpn-0556-LT
       - TG频道@mfbpn-0557-US
       - TG频道@mfbpn-0558-RELAY
@@ -2825,6 +2827,7 @@ proxy-groups:
       - TG频道@mfbpn-0540-NL
       - TG频道@mfbpn-0545-RELAY
       - TG频道@mfbpn-0550-LT
+      - TG频道@mfbpn-0555-US
       - TG频道@mfbpn-0560-RELAY
       - TG频道@mfbpn-0565-CN
       - TG频道@mfbpn-0570-CN
