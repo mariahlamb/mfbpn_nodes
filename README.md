@@ -492,7 +492,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU1OS1SRUxBWSIsImFkZCI6InMyLmRiLWxpbmswMi50b3AiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJhYzljNTg5OS0yOWVlLTMxMzktYTJhZS1iNTgwM2E2ODUyNGYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTA0LjE2Ljk4LjMyIiwiaG9zdCI6InMyLmRiLWxpbmswMi50b3AiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2MC1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjcuMTkiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2MS1SRUxBWSIsImFkZCI6IjEwNC4xOS40NS4xNyIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-    trojan://telegram-id-directvpn@18.132.173.102:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0562-GB
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2My1SRUxBWSIsImFkZCI6IjEwNC4yNi41Ljg4IiwicG9ydCI6IjIwOTUiLCJ0eXBlIjoibm9uZSIsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2NC1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjcuMTAiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5001#TG%E9%A2%91%E9%81%93%40mfbpn-0565-FR
@@ -688,6 +687,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc1NS1DTiIsImFkZCI6ImkubmVlZHNzLnRvcCIsInBvcnQiOiIyMTExMSIsInR5cGUiOiJub25lIiwiaWQiOiJiNzA4YWRlZi04MjE5LTQ3ZTYtOTE5MS00YzBkMzQyOTNmYjgiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9yYXkiLCJob3N0IjoieWQyLmFpbml2cC5jb20iLCJ0bHMiOiIifQ==
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjc0MWQyOC1jZDExLTRjZTgtODc5OS00NTk0MDdiYWNkZTg@4.api-catssr.catcloud.host:49897#TG%E9%A2%91%E9%81%93%40mfbpn-0756-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc1Ny1VUyIsImFkZCI6IjY2LjI0MS4xMjQuMjI5IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2VhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOC12bSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+    trojan://telegram-id-privatevpns@51.44.98.70:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0758-FR
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#TG%E9%A2%91%E9%81%93%40mfbpn-0759-LV
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc2MC1VUyIsImFkZCI6ImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImVhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwiaG9zdCI6ImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc2MS1SRUxBWSIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiOGU0ZmI4LTA4YjctNDg0ZC1hZDVjLTFiNTVmYTUzOTc0NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUkFDRVZQTj90ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4iLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJ0bHMiOiIifQ==
@@ -991,7 +991,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.43.67.42:443#TG%E9%A2%91%E9%81%93%40mfbpn-1060-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@50.112.199.89:443#TG%E9%A2%91%E9%81%93%40mfbpn-1061-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.200.220.184:443#TG%E9%A2%91%E9%81%93%40mfbpn-1062-US
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.180.126:443#TG%E9%A2%91%E9%81%93%40mfbpn-1063-UStrojan%2F%2Ftelegram-id-privatevpns%4051.44.98.7022222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0758-FR
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.180.126:443#TG%E9%A2%91%E9%81%93%40mfbpn-1063-UStrojan%2F%2Ftelegram-id-directvpn%4018.132.173.10222222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0562-GB
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.117.219:443#TG%E9%A2%91%E9%81%93%40mfbpn-1064-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.88.193.52:443#TG%E9%A2%91%E9%81%93%40mfbpn-1065-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.245.4.48:443#TG%E9%A2%91%E9%81%93%40mfbpn-1066-US
@@ -1040,11 +1040,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1106`
+合并节点总数: `992`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1106`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `992`
 
 
 ## 仓库声明
