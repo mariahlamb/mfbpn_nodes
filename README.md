@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1024`
+高速节点数量: `1023`
 <details>
   <summary>展开复制节点</summary>
 
@@ -40,7 +40,6 @@ Fork from TopFreeProxies.
     trojan://TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3@45.64.22.55:443?allowInsecure=1&sni=mhkla.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-0007-MO
     trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?allowInsecure=1&sni=pbvre.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-0008-MO
     trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@45.64.22.55:443?allowInsecure=1&sni=httah.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-0009-MO
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMC1TRyIsImFkZCI6IjguMjE5LjEzOS4xMzYiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGYxZjFjY2EtNTZkYy00ZmViLThiNGItNTBhYjA3NGY0NDY3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWQ9MjA0OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMS1SRUxBWSIsImFkZCI6ImZiaS5nb3YiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI5MjkwMjlhNS05ZDg4LTRlMmYtZWUzNS05MThmZWE3MTZiNzciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BoZWludWhvbWUiLCJob3N0IjoiZmJpLmdvdiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMi1SRUxBWSIsImFkZCI6InVpY2RuLmNmIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImM2NzQ3ZGE0LWZiMmUtNGEyYS1iZGI3LTg2MTRiZGQ2YjBiMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3Noa2l0LzE3MzY5NjAxMTEvNjM4NTliZTFhNzYyYy8iLCJob3N0IjoidWljZG4uY2YiLCJ0bHMiOiIifQ==
     trojan://b9c4f30f-0e95-4c23-80f8-b134414f43ec@bp.i809.ml:12087?allowInsecure=1&sni=qt54.shenseven.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-0013-NOWHERE
@@ -271,8 +270,8 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGZhN2NkYS04ODAzLTQ1MTMtOTg4ZC03MzgyZTU2YWJkMjM@jsyd.yunnode.win:31650#TG%E9%A2%91%E9%81%93%40mfbpn-0239-CN
     trojan://7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8@18.179.44.127:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0240-JP
     trojan://7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8@43.206.140.241:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0241-JP
+    trojan://7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8@35.164.152.219:443?allowInsecure=1&sni=steampipe-kr.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0242-US
     trojan://7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8@103.136.185.27:5535?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0243-US
-    trojan://7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8@103.136.185.28:3516?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-0244-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI0NS1SRUxBWSIsImFkZCI6InM1LmRiLWxpbmswMi50b3AiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJlNTBiYjE3NC1mMmNiLTMwODEtOTMxZS1mYTRiZmQ2OWY0MmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTA0LjE5Ljc3Ljg1IiwiaG9zdCI6InM1LmRiLWxpbmswMi50b3AiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI0Ni1SRUxBWSIsImFkZCI6InM0LmNuLWRiLnRvcCIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU1MGJiMTc0LWYyY2ItMzA4MS05MzFlLWZhNGJmZDY5ZjQyZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkuaW4xMDQuMjUuMjE0LjIxOCIsImhvc3QiOiJzNC5jbi1kYi50b3AiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI0Ny1SRUxBWSIsImFkZCI6InMxLmNuLWRiLnRvcCIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU1MGJiMTc0LWYyY2ItMzA4MS05MzFlLWZhNGJmZDY5ZjQyZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkuaW4xMDQuMjAuMjEwLjI1MiIsImhvc3QiOiJzMS5jbi1kYi50b3AiLCJ0bHMiOiIifQ==
@@ -1051,7 +1050,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEzMi1SRUxBWSIsImFkZCI6IjEwNC4yMC4xMTEuNzMiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFmNmVlZGY1LWYyYjQtNDQ3Zi04YjkzLTVmY2EzM2FmMDZmOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6InRscyJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEzMy1SRUxBWSIsImFkZCI6IjE3Mi42Ny43OC41MiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWY2ZWVkZjUtZjJiNC00NDdmLThiOTMtNWZjYTMzYWYwNmY4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEzNC1SRUxBWSIsImFkZCI6IjEwNC4yNS4yMjAuMTY2IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhZjZlZWRmNS1mMmI0LTQ0N2YtOGI5My01ZmNhMzNhZjA2ZjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNTg1RkNEQi02MzUxLTQ4RDQtODJDMS01OTlCNTQ0N0E1ODk@soonhk.soon.guru:40000#TG%E9%A2%91%E9%81%93%40mfbpn-1138-HKtrojan%2F%2F7bc4b80c-52a1-3c35-bb5a-90d8e3a0bab8%4035.164.152.219443%3FallowInsecure%3D1%26sni%3Dsteampipe-kr.akamaized.net%23TG%E9%A2%91%E9%81%93%40mfbpn-0242-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNTg1RkNEQi02MzUxLTQ4RDQtODJDMS01OTlCNTQ0N0E1ODk@soonhk.soon.guru:40000#TG%E9%A2%91%E9%81%93%40mfbpn-1138-HK
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ@h-k02.loveroise.com:54002#TG%E9%A2%91%E9%81%93%40mfbpn-1139-NOWHERE
     
 
