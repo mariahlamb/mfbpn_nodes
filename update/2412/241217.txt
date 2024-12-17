@@ -475,7 +475,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.1.13:443#TG%E9%A2%91%E9%81%93%40mfbp
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024#TG%E9%A2%91%E9%81%93%40mfbpn-574-PL
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.200.220.184:443#TG%E9%A2%91%E9%81%93%40mfbpn-575-US
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#TG%E9%A2%91%E9%81%93%40mfbpn-576-PL
-ssr://bnN1czMuaXJ1bmRucy5uZXQ6NDQzOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWNmYjpodHRwX3Bvc3Q6SzJGelpEWmhOWE0xWkdZci8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9VkVmcG9wSHBnWk5BYldaaWNHNHROVGMzTFZWVCZvYmZzcGFyYW09JnByb3RvcGFyYW09
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTc4LVVTIiwiYWRkIjoiMTA3LjE2Ny4zMC4xMjYiLCJwb3J0IjoiMzAwMDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTdmOTNlOTItZWJiOS00ZjE2LTliZGMtODIyNWQyMDEwOTk1IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8yNDA4MTEwNjI4MTMiLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green:48539?allowInsecure=1&sni=hk12.bilibili.com#TG%E9%A2%91%E9%81%93%40mfbpn-579-HK
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#TG%E9%A2%91%E9%81%93%40mfbpn-580-HK
@@ -531,7 +530,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjI5LVJFTEFZIiwiYWRkIjoidXMwMS50
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443?allowInsecure=1&sni=us08.ssr.ee#TG%E9%A2%91%E9%81%93%40mfbpn-630-US
 trojan://telegram-id-privatevpns@13.37.127.182:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-631-FR
 trojan://telegram-id-privatevpns@13.50.205.252:22222?allowInsecure=1&sni=trojan.burgerip.co.ukhttp/1.1#TG%E9%A2%91%E9%81%93%40mfbpn-632-SE
-trojan://telegram-id-privatevpns@13.50.211.85:22222?allowInsecure=1&sni=trojan.burgerip.co.ukhttp/1.1#TG%E9%A2%91%E9%81%93%40mfbpn-633-SE
+trojan://telegram-id-directvpn@99.79.91.235:22222?allowInsecure=1&sni=trojan.burgerip.co.ukhttp/1.1#TG%E9%A2%91%E9%81%93%40mfbpn-633-SE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#TG%E9%A2%91%E9%81%93%40mfbpn-634-LV
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443?allowInsecure=1&sni=us10.ssr.ee#TG%E9%A2%91%E9%81%93%40mfbpn-635-US
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@krcc.ssr.ee:55562?allowInsecure=1&sni=krcc.ssr.ee#TG%E9%A2%91%E9%81%93%40mfbpn-636-KR
@@ -588,7 +587,8 @@ trojan://telegram-id-privatevpns@13.37.127.182:22222?allowInsecure=1&sni=trojan.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#TG%E9%A2%91%E9%81%93%40mfbpn-687-LT
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjg4LUZSIiwiYWRkIjoiMTYzLjUuMTU5LjIzMSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoiIiwidGxzIjoiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#TG%E9%A2%91%E9%81%93%40mfbpn-689-VN
-vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjkxLUNOIiwiYWRkIjoiMTgzLjIzNi40OC4xNDMiLCJwb3J0IjoiMzE4NzgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?allowInsecure=1&sni=us01.ssr.ee#TG%E9%A2%91%E9%81%93%40mfbpn-690-US
+vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjkxLUNOIiwiYWRkIjoiMTgzLjIzNi40OC4xNDMiLCJwb3J0IjoiMzE4NzgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ1czAxLnNzci5lZSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjkyLVJFTEFZIiwiYWRkIjoiaHNqLmxieGpjLm9ubGluZSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJlNjU0MzMxOS0wNTc0LTQyYWMtYjc3OC0xYzQzMjVkNjI2ZjUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJoc2oubGJ4amMub25saW5lIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjkzLUZBU1RMWSIsImFkZCI6IjE1MS4xMDEuMi4xMzMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTk4M2M2OTgtY2FlNC00MjU0LWQwNDctNTE4OThjY2Q4ZWU3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmllcz9lZD0yMDQ4IiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjk0LVJFTEFZIiwiYWRkIjoidXNuZXcubGJ4amMuc2l0ZSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJlNjU0MzMxOS0wNTc0LTQyYWMtYjc3OC0xYzQzMjVkNjI2ZjUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ1c25ldy5sYnhqYy5zaXRlIiwidGxzIjoiIn0=
@@ -671,7 +671,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 trojan://telegram-id-privatevpns@18.133.105.230:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-772-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#TG%E9%A2%91%E9%81%93%40mfbpn-773-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig27.usecharge.ir:443#TG%E9%A2%91%E9%81%93%40mfbpn-774-NOWHERE
-trojan://telegram-id-directvpn@99.79.91.235:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-749-CAtrojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-775-VN
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-775-VN
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzc2LVJFTEFZIiwiYWRkIjoiMTA0LjE3LjIxMy4yNDEiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWE2ZGRkMmYtZDFjZi00YTUyLWJhMWItMjY0MGM0MWE3ODU2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzc3LVJFTEFZIiwiYWRkIjoiZ29zdC5jbG91ZGZsYXJlLjE4MjY4Mi54eXoiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWE2ZGRkMmYtZDFjZi00YTUyLWJhMWItMjY0MGM0MWE3ODU2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29zdC5jbG91ZGZsYXJlLjE4MjY4Mi54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzc4LVJFTEFZIiwiYWRkIjoiMTA0LjE5LjQ4LjIzNiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJhYTZkZGQyZi1kMWNmLTRhNTItYmExYi0yNjQwYzQxYTc4NTYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
