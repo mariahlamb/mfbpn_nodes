@@ -941,6 +941,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.129:443#TG%E9%A2%91%E9%81%93%40mfbpn-1009-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxa3E2WDY4U0hUSVFyTUI1bFZmVmNX@167.172.170.30:80#TG%E9%A2%91%E9%81%93%40mfbpn-1010-DE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEOFRXbUphVmkzQ1dkd3FPYXR6R2x3@46.101.103.208:80#TG%E9%A2%91%E9%81%93%40mfbpn-1011-DE
+    ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#TG%E9%A2%91%E9%81%93%40mfbpn-1012-GB
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#TG%E9%A2%91%E9%81%93%40mfbpn-1013-US
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.194:443#TG%E9%A2%91%E9%81%93%40mfbpn-1014-GB
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#TG%E9%A2%91%E9%81%93%40mfbpn-1015-CH
@@ -962,7 +963,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.163:443#TG%E9%A2%91%E9%81%93%40mfbpn-1031-CH
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.82:443#TG%E9%A2%91%E9%81%93%40mfbpn-1032-NL
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.77:443#TG%E9%A2%91%E9%81%93%40mfbpn-1033-NL
-    ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#TG%E9%A2%91%E9%81%93%40mfbpn-1034-GB
     trojan://telegram-id-privatevpns@18.168.25.133:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1035-GB
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#TG%E9%A2%91%E9%81%93%40mfbpn-1036-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.151:443#TG%E9%A2%91%E9%81%93%40mfbpn-1037-US
@@ -1233,11 +1233,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1305`
+合并节点总数: `1303`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1305`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1303`
 
 
 ## 仓库声明
