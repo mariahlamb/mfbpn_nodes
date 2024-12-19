@@ -592,7 +592,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjU5LVJFTEFZIiwiYWRkIjoiMTA0LjE4LjExNC41IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjYwLVJFTEFZIiwiYWRkIjoiMTA0LjIxLjIzOC4xMSIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     trojan://b0b861c2c85346a389b9e95769c3cba4@avianrecruit.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-661-CA
-    trojan://dba20dcb635e430fa4d3bfc303a149d2@jobscareerfortoday.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-662-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjYzLVJFTEFZIiwiYWRkIjoiMTA0LjI2LjAuNDYiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjY0LVJFTEFZIiwiYWRkIjoiMTA0LjE4LjExNC4yMDIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNjY1LVJFTEFZIiwiYWRkIjoiMTA0LjE4LjExNC40MiIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -649,6 +648,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#TG%E9%A2%91%E9%81%93%40mfbpn-716-US
     trojan://4aec4e7f8cf8454ea4613659822e1a61@avianrecruit.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-717-CA
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzE4LVJFTEFZIiwiYWRkIjoiZnIwMS50aWt0b2tjbG91ZC51cy5rZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzdiMDMyZjktZjMxMC00MGExLWIxODAtMGJlMDk4NDIzMmQ0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9mcjAxIiwiaG9zdCI6ImZyMDEudGlrdG9rY2xvdWQudXMua2ciLCJ0bHMiOiIifQ==
+    ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#TG%E9%A2%91%E9%81%93%40mfbpn-719-US
     ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.27:6697#TG%E9%A2%91%E9%81%93%40mfbpn-720-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzIxLVJFTEFZIiwiYWRkIjoiMTA0LjIxLjIzOC42MyIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNzIyLVJFTEFZIiwiYWRkIjoiMTA0LjIxLjIzOC4zOCIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -853,18 +853,18 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmU0YzY4NC00M2MyLTQ1NDQtOGNiMi1kZTU2Yjc5YTNiY2Y@hk.3.thap.xyz:58717#TG%E9%A2%91%E9%81%93%40mfbpn-922-HK
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmU0YzY4NC00M2MyLTQ1NDQtOGNiMi1kZTU2Yjc5YTNiY2Y@hk.3.thap.xyz:58666#TG%E9%A2%91%E9%81%93%40mfbpn-923-HK
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmU0YzY4NC00M2MyLTQ1NDQtOGNiMi1kZTU2Yjc5YTNiY2Y@hk.1.thap.xyz:58767#TG%E9%A2%91%E9%81%93%40mfbpn-924-HK
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmU0YzY4NC00M2MyLTQ1NDQtOGNiMi1kZTU2Yjc5YTNiY2Y@nb.3.thap.xyz:58884#TG%E9%A2%91%E9%81%93%40mfbpn-925-HKss%2F%2FYWVzLTEyOC1nY206c2hhZG93c29ja3M%4037.19.198.160443%23TG%E9%A2%91%E9%81%93%40mfbpn-719-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmU0YzY4NC00M2MyLTQ1NDQtOGNiMi1kZTU2Yjc5YTNiY2Y@nb.3.thap.xyz:58884#TG%E9%A2%91%E9%81%93%40mfbpn-925-HKtrojan%2F%2Fdba20dcb635e430fa4d3bfc303a149d2%40jobscareerfortoday.com443%3FallowInsecure%3D1%23TG%E9%A2%91%E9%81%93%40mfbpn-662-US
     
 
 
 </details>
 
 ### 所有节点
-合并节点总数: `926`
+合并节点总数: `935`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `926`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `935`
 
 
 ## 仓库声明
