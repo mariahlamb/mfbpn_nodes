@@ -53,7 +53,7 @@ sniffer:
     - courier.push.apple.com
     - Mijia Cloud
 proxies:
-  - {name: "TG频道@mfbpn-0000-JPtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US", server: 85.208.108.60, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: TG频道@mfbpn-0000-JP, server: 85.208.108.60, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: TG频道@mfbpn-0001-RELAY, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: cf-lt.sharecentre.online}}, udp: true}
   - {name: TG频道@mfbpn-0002-NOWHERE, server: r001.baipiaoxd.com, port: 19198, type: ss, cipher: aes-256-gcm, password: gKXJa5qK6l, udp: true}
   - {name: TG频道@mfbpn-0003-NOWHERE, server: r001.baipiaoxd.com, port: 18022, type: ss, cipher: aes-256-gcm, password: !<str> 123123123, udp: true}
@@ -1207,7 +1207,7 @@ proxies:
   - {name: TG频道@mfbpn-1252-AE, server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true}
   - {name: TG频道@mfbpn-1253-AE, server: 3.28.175.250, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: eeZZxajqbcmFkIWq, udp: true}
   - {name: TG频道@mfbpn-1254-KR, server: 43.203.243.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: TG频道@mfbpn-1255-KR, server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "TG频道@mfbpn-1255-KRtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US", server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -1218,7 +1218,7 @@ proxy-groups:
       - 测速3分组
       - 测速4分组
       - 测速5分组
-      - TG频道@mfbpn-0000-JPtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US
+      - TG频道@mfbpn-0000-JP
       - TG频道@mfbpn-0001-RELAY
       - TG频道@mfbpn-0002-NOWHERE
       - TG频道@mfbpn-0003-NOWHERE
@@ -2372,7 +2372,7 @@ proxy-groups:
       - TG频道@mfbpn-1252-AE
       - TG频道@mfbpn-1253-AE
       - TG频道@mfbpn-1254-KR
-      - TG频道@mfbpn-1255-KR
+      - TG频道@mfbpn-1255-KRtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -3333,7 +3333,7 @@ proxy-groups:
     url: https://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - TG频道@mfbpn-0000-JPtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US
+      - TG频道@mfbpn-0000-JP
       - TG频道@mfbpn-0005-SG
       - TG频道@mfbpn-0010-NOWHERE
       - TG频道@mfbpn-0015-NOWHERE
@@ -3563,7 +3563,7 @@ proxy-groups:
       - TG频道@mfbpn-1240-US
       - TG频道@mfbpn-1245-GB
       - TG频道@mfbpn-1250-GB
-      - TG频道@mfbpn-1255-KR
+      - TG频道@mfbpn-1255-KRtrojan//ypDt8RkT7J@89.187.181.17243118?allowInsecure=1#TG频道@mfbpn-1165-US
   - name: 广告拦截
     type: select
     proxies:
